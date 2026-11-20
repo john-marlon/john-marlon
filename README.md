@@ -8,9 +8,9 @@ Matanzas, Cuba · [johnmarlonperez@icloud.com](mailto:johnmarlonperez@icloud.com
 ### About
 
 Software Engineer with 4+ years of experience building software in Python and JavaScript.
-I develop backend systems and APIs, custom Odoo 18 modules for enterprise clients, and
+I develop backend systems and APIs, custom Odoo modules for enterprise clients, and
 automation and Telegram bots that people actually use. I work with automated tests, Docker
-and Git-based workflows, and I integrate LLMs (Anthropic API, tool use, RAG, MCP) into
+and Git-based workflows, and I integrate LLMs (API, tool use, RAG, MCP) into
 practical tools. I also work with agentic coding: orchestrating AI agents from
 specifications, reviewing generated code and validating it with automated tests.
 
@@ -32,7 +32,7 @@ platform · Telegram bot used by 1,000+ people
   groups, ACLs and record rules; form controllers via `js_class` without patching core.
 - **Automation & bots** — Telegram bots with python-telegram-bot and Telethon (MTProto),
   scheduled tasks, payments and subscriptions, multimedia pipelines with FFmpeg.
-- **Applied AI & agentic coding** — LLM integrations with the Anthropic API (tool use, RAG,
+- **Applied AI & agentic coding** — LLM integrations with API (tool use, RAG,
   MCP) and spec-driven, agent-assisted development: specs, `AGENTS.md`, and review of
   generated code backed by automated tests.
 - **Quality & delivery** — pytest and pytest-asyncio, integration and acceptance testing,
@@ -44,15 +44,15 @@ platform · Telegram bot used by 1,000+ people
 | --- | --- |
 | Languages | Python · JavaScript · SQL · HTML · CSS · XML |
 | Backend & APIs | FastAPI · Express · REST · JWT · asyncio · OpenAPI/Swagger |
-| ERP | Odoo 18 · ORM · OWL · QWeb · ACL · `js_class` · Chart.js |
+| ERP | Odoo · ORM · OWL · QWeb · ACL  |
 | Data | PostgreSQL · MongoDB/Motor · SQLite · pandas |
 | Automation | Telegram API · Telethon · python-telegram-bot · FFmpeg/FFprobe |
-| AI & LLMs | Anthropic API · tool use · RAG · MCP · prompt caching · Claude Code |
+| AI & LLMs | API · tool use · RAG · MCP · prompt caching · prompt engineering |
 | Agentic coding | Agent orchestration · spec-driven development · `AGENTS.md` · reviewed generated code |
 | Infrastructure | Docker · Compose · GitHub Actions · Linux · Bash · systemd · pytest |
 
 **How I work:** Git and GitHub flow (branches, pull requests, code review, Conventional
-Commits), Scrum and UML for design, and technical documentation as part of delivery —
+Commits), Scrum or XP and UML for design, and technical documentation as part of delivery —
 READMEs, installation and operations guides, and specifications.
 
 ---
@@ -115,9 +115,9 @@ Open to remote backend, Odoo/ERP and automation roles.
 ### Sobre mí
 
 Ingeniero de Software con más de 4 años de experiencia desarrollando software con Python y
-JavaScript. Trabajo en backend y APIs, módulos personalizados de Odoo 18 para empresas, y
+JavaScript. Trabajo en backend y APIs, módulos personalizados de Odoo para empresas, y
 automatizaciones y bots de Telegram usados por personas reales. Integro modelos de lenguaje
-(API de Anthropic, tool use, RAG, MCP) en herramientas concretas. También trabajo con
+(API, tool use, RAG, MCP) en herramientas concretas. También trabajo con
 agentic coding: orquesto agentes de IA a partir de especificaciones, reviso el código
 generado y lo valido con pruebas automatizadas.
 
@@ -134,10 +134,10 @@ B2B de más de 30 módulos · bot de Telegram usado por más de 1.000 personas.
 
 - **Lenguajes:** Python, JavaScript, SQL, HTML, CSS, XML
 - **Backend y APIs:** FastAPI, Express, REST, JWT, asyncio, OpenAPI/Swagger
-- **ERP:** Odoo 18, ORM, OWL, QWeb, ACL, `js_class`, Chart.js
+- **ERP:** Odoo, ORM, OWL, QWeb, ACL
 - **Datos:** PostgreSQL, MongoDB/Motor, SQLite, pandas
 - **Automatización:** Telegram API, Telethon, python-telegram-bot, FFmpeg/FFprobe
-- **IA y LLMs:** API de Anthropic, tool use, RAG, MCP, prompt caching, Claude Code
+- **IA y LLMs:** API, tool use, RAG, MCP, prompt caching, prompt engineering
 - **Agentic coding:** orquestación de agentes, desarrollo guiado por especificaciones,
   `AGENTS.md`, revisión de código generado
 - **Infraestructura:** Docker, Compose, GitHub Actions, Linux, Bash, systemd, pytest
