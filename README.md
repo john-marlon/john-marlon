@@ -11,7 +11,8 @@ Software Engineer with 4+ years of experience building software in Python and Ja
 I develop backend systems and APIs, custom Odoo 18 modules for enterprise clients, and
 automation and Telegram bots that people actually use. I work with automated tests, Docker
 and Git-based workflows, and I integrate LLMs (Anthropic API, tool use, RAG, MCP) into
-practical tools.
+practical tools. I also work with agentic coding: orchestrating AI agents from
+specifications, reviewing generated code and validating it with automated tests.
 
 Most of my production work lives in private company repositories, so this profile focuses on
 what I can describe openly: the systems I have built, the stack I work with, and what I can do.
@@ -31,8 +32,9 @@ platform · Telegram bot used by 1,000+ people
   groups, ACLs and record rules; form controllers via `js_class` without patching core.
 - **Automation & bots** — Telegram bots with python-telegram-bot and Telethon (MTProto),
   scheduled tasks, payments and subscriptions, multimedia pipelines with FFmpeg.
-- **Applied AI** — LLM integrations with the Anthropic API: tool use, RAG, MCP, prompt
-  caching and agent workflows.
+- **Applied AI & agentic coding** — LLM integrations with the Anthropic API (tool use, RAG,
+  MCP) and spec-driven, agent-assisted development: specs, `AGENTS.md`, and review of
+  generated code backed by automated tests.
 - **Quality & delivery** — pytest and pytest-asyncio, integration and acceptance testing,
   Docker/Compose, Linux and systemd.
 
@@ -46,6 +48,7 @@ platform · Telegram bot used by 1,000+ people
 | Data | PostgreSQL · MongoDB/Motor · SQLite · pandas |
 | Automation | Telegram API · Telethon · python-telegram-bot · FFmpeg/FFprobe |
 | AI & LLMs | Anthropic API · tool use · RAG · MCP · prompt caching · Claude Code |
+| Agentic coding | Agent orchestration · spec-driven development · `AGENTS.md` · reviewed generated code |
 | Infrastructure | Docker · Compose · GitHub Actions · Linux · Bash · systemd · pytest |
 
 **How I work:** Git and GitHub flow (branches, pull requests, code review, Conventional
@@ -114,7 +117,9 @@ Open to remote backend, Odoo/ERP and automation roles.
 Ingeniero de Software con más de 4 años de experiencia desarrollando software con Python y
 JavaScript. Trabajo en backend y APIs, módulos personalizados de Odoo 18 para empresas, y
 automatizaciones y bots de Telegram usados por personas reales. Integro modelos de lenguaje
-(API de Anthropic, tool use, RAG, MCP) en herramientas concretas.
+(API de Anthropic, tool use, RAG, MCP) en herramientas concretas. También trabajo con
+agentic coding: orquesto agentes de IA a partir de especificaciones, reviso el código
+generado y lo valido con pruebas automatizadas.
 
 La mayor parte de mi trabajo de producción está en repositorios privados de empresa, así que
 este perfil se centra en lo que puedo describir abiertamente: los sistemas que he construido,
@@ -133,6 +138,8 @@ B2B de más de 30 módulos · bot de Telegram usado por más de 1.000 personas.
 - **Datos:** PostgreSQL, MongoDB/Motor, SQLite, pandas
 - **Automatización:** Telegram API, Telethon, python-telegram-bot, FFmpeg/FFprobe
 - **IA y LLMs:** API de Anthropic, tool use, RAG, MCP, prompt caching, Claude Code
+- **Agentic coding:** orquestación de agentes, desarrollo guiado por especificaciones,
+  `AGENTS.md`, revisión de código generado
 - **Infraestructura:** Docker, Compose, GitHub Actions, Linux, Bash, systemd, pytest
 
 ### Experiencia
